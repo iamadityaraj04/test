@@ -1,0 +1,1 @@
+This is text document created from terminal to perform some git commands.
